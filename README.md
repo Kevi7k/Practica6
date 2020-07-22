@@ -2,7 +2,7 @@
 # *TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
-## *OBJETIVOS:*
+## *OBJETIVOS*
 # Objetivo general
 - Diseñar un circuito electrico mediante la simulación en laboratorios virtuales para comprobar la validez del teorema de la máxima transferencia de potencia.
 
@@ -11,7 +11,7 @@
 - Analizar los resultados teóricos con los prácticos mediante la comparación de los mismos para la obtención de porcentajes de error respectivos.
 
 
-## *LISTA DE MATERIALES:*
+## *LISTA DE MATERIALES*
 
 
 | Cantidad | Material de Equipo |
