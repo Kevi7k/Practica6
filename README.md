@@ -167,7 +167,11 @@ TABLA III. Cálculo de errores en la potencia
 
 
 ## *RECOMENDACIONES*
+1.- Para realizar una practica exitosa se debe tener conocimiento previo adquirido, para poder relacionar la teoría aprendida con la simulación.
 
+2.- Tener cuidado al momento de aproximar mal los valores que calculamos teóricamente ya que si lo hacemos mal , nos dará un porcentaje de error mas alto de lo esperado.
+
+3.- Realizar paso a paso la practica, siguiendo en orden el prodecimiento ya establecido en las guías de laboratorio, para así no cometer errores. 
 
 
 ## *CRONOGRAMA*
