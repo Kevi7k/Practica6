@@ -85,15 +85,15 @@ Fig 4.  Formula de la potencia máxima.
 |  RL(Ω)   |  Corriente medida (mA) | Voltaje medido (V)   | Potencia calculada Experimentalmente (W)|Potencia calculada teoricamente (W)  |
 |:--------:|:---------:|:--------:|:---------:|:--------:|
 |  220      | 10,6 |  2,32  | 0,02459  |  0,02455   |
-|  470      | 8,98  |  4,22    |  0,03789    |   0,03792    |
-|  680      |  7,98  |  5,43    |  0,04333   |   0,04328    |
-|  820      | 7,42 | 6,09  | 0,04524 |  0,04521 |
+|  470      | 8,98  |  4,22    |  0,0379    |   0,03792    |
+|  680      |  7,98  |  5,43    |  0,04331   |   0,04328    |
+|  820      | 7,43 | 6,09  | 0,04524 |  0,04521 |
 |  1000      |   6,82  |  6,82   |   0,04651    |  0,04648    |
 |  1500      |   5,56  | 8,33  |  0,04631   |   0,04629    |
 |  1800      | 5 |  9 | 0,045|  0,045 |
-|  2200      |   4,1  |   9,71  |   0,03981 |   0,04282    |
-|  3900      |   2,94  |  11,5   |  0,03381 |   0,03373    |
-|  4700      | 2,54 |  11,9   | 0,03022  |  0,03037   |
+|  2200      |   4,1  |   9,71  |   0,04282 |   0,04282    |
+|  3900      |   2,94  |  11,5   |  0,03381 |   0,03374    |
+|  4700      | 2,54 |  11,9   | 0,03023  |  0,03038  |
 
 TABLA II. Comprobación de la máxima transferencia de potencia.
 
@@ -160,16 +160,16 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 Resistencia(Ω)|Potencia (W) con resultados Analíticos | Potencia (W) con resultados Experimentales|%Error|
 |---------------- | ------------- | ------------- |-----------|
-| 220      |  0,02455 | 0,02459 | 0,067%|
-| 470      | 0,03792| 0,03789 | 0,0001% |
-| 680     | 0,04328| 0,04333 | 0,0001% |
-| 820      | 0,04521| 0,04524 | 0,0001% |
-| 1000      | 0,04648| 0,04651 | 0,0001% |
-| 1500     | 0,04629| 0,04631 | 0,0001% |
-| 1800     | 0,045| 0,045 | 0% |
-| 2200      | 0,04282| 0,03981 | 0,0001% |
-| 3900      | 0,03373| 0,03381 | 0,0001% |
-| 4700     | 0,03037| 0,03022 | 0,0001% |
+| 220      |  0,02455 | 0,02459 | 0,02%|
+| 470      | 0,03792| 0,03789 | 0,05% |
+| 680     | 0,04328| 0,04331 | 0,06% |
+| 820      | 0,04521| 0,04525 | 0,06% |
+| 1000      | 0,04648| 0,04651 | 0,06% |
+| 1500     | 0,04629| 0,04631 | 0,04% |
+| 1800     | 0,045| 0,045 | 0.00% |
+| 2200      | 0,04282| 0,04282 | 0,00% |
+| 3900      | 0,03374| 0,03381 | 0,21% |
+| 4700     | 0,03038| 0,03023 | 0,49% |
 
 TABLA III. Cálculo de errores en la potencia
 
@@ -201,6 +201,6 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 Figura 5. Medición de voltaje y corriente en la resistencia de carga del circuito.
 
 
-![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/mediciones2.jpg)
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/calculos.jpg)
 
-Figura 5. Cálculos experimentales y teóricos.
+Figura 5. Cálculos experimentales, teóricos y error porcentual.
