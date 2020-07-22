@@ -33,7 +33,9 @@
 
 Para poder lograr transferir la máxima potencia a una carga  en un circuito este consiste en hacer que dicha carga absorba al máximo a la fuente de energía del circuito, es decir que consuma lo que mas pueda de potencia que es generada por la fuente. Como se sabe, un circuito, respecto a dos puntos (a,b) este se puede reducir mediente el teorema de thevenin ya antes visto, como ya sabemos este es reducido a una fuente (Vth) en serie con una resistencia (Rth), para poder determinar de como se obtiene la máxima transferencia de potencia dirigida hacia una carga, lo que debemos de hacer es reducir la red que existe a los terminales de dicha carga mediante el teorema ya mencionado, valga la redundancia , de modo que el circuito al final se reduce solamente en una malla entonces ahí encontramos la potencia transferida.
 
-Fig 1
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/Diagrama%201.jpg)
+
+Fig 1. Circuito simplificado
 
 Donde para poder encontrarla, debemos seguir los siguientes pasos:
 
@@ -43,15 +45,21 @@ Donde para poder encontrarla, debemos seguir los siguientes pasos:
 
 Aplicando Teorema de thevenin 
 
-Fig 2
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/diagrama%202.png)
 
-Aplicando Teorema de Norton
+Fig 2.  Teorema de thevenin 
 
-Fig 3 
+ o aplicando Teorema de Norton
+
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/diagrama%203.png)
+
+Fig 3.  Teorema de Norton 
 
 Una vez que hemos encontrado RI, Sabemos la resistencia óptima a la carga (Rth = RL). Finalmente, se puede encontrar la potencia máxima con el siguiente modelo matemático.
 
-Fig 4
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/Formula.png)
+
+Fig 4.  Formula de la potencia máxima.
 
 
 
@@ -59,7 +67,8 @@ Fig 4
 ## *PROCEDIMIENTO*
 
 1.-Arme el circuito que se muestra en la figura.
- Fig 1
+ 
+ ![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/diagrama%204.png)
 
 2.- Mida el voltaje y la corriente para cada valor de RL que se indica en la fig 1, anote los resultados medidos.
 
