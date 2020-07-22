@@ -31,6 +31,30 @@
 |  1  | Protoboar      |
 ## *MARCO TEÓRICO*
 
+Para poder lograr transferir la máxima potencia a una carga  en un circuito este consiste en hacer que dicha carga absorba al máximo a la fuente de energía del circuito, es decir que consuma lo que mas pueda de potencia que es generada por la fuente. Como se sabe, un circuito, respecto a dos puntos (a,b) este se puede reducir mediente el teorema de thevenin ya antes visto, como ya sabemos este es reducido a una fuente (Vth) en serie con una resistencia (Rth), para poder determinar de como se obtiene la máxima transferencia de potencia dirigida hacia una carga, lo que debemos de hacer es reducir la red que existe a los terminales de dicha carga mediante el teorema ya mencionado, valga la redundancia , de modo que el circuito al final se reduce solamente en una malla entonces ahí encontramos la potencia transferida.
+
+Fig 1
+
+Donde para poder encontrarla, debemos seguir los siguientes pasos:
+
+1. Encuentra la resistencia interna, RI. Esta es la resistencia que se encuentra al mirar hacia atrás en los dos terminales de carga de la fuente. sin carga conectada. Como hemos demostrado en el Teorema de Thevenin y Teorema de norton En los capítulos, el método más sencillo es reemplazar las fuentes de voltaje por cortocircuitos y las fuentes de corriente por circuitos abiertos, luego encontrar la resistencia total entre los dos terminales de carga.
+
+2. Encuentre la tensión de circuito abierto (Vth) o la corriente de cortocircuito (In) de la fuente entre los dos terminales de carga, sin carga conectada.
+
+Aplicando Teorema de thevenin 
+
+Fig 2
+
+Aplicando Teorema de Norton
+
+Fig 3 
+
+Una vez que hemos encontrado RI, Sabemos la resistencia óptima a la carga (Rth = RL). Finalmente, se puede encontrar la potencia máxima con el siguiente modelo matemático.
+
+Fig 4
+
+
+
 
 ## *PROCEDIMIENTO*
 
