@@ -158,18 +158,18 @@ I(salida)=I(entrada)
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
 
-Resistencia(Ω)|Potencia (W)| Resultados Analíticos |Resultados Experimentales|%Error|
-|-------------| ------------- | ------------- | ------------- | ------------- |
-| 220      |  xxx  | xxxx | xxxx | 0,067%|
-| 470      | xxx | xxxx| xxxx | 0,0001% |
-| 680     | xxx | xxxx| xxxx | 0,0001% |
-| 820      | xxx | xxxx| xxxx | 0,0001% |
-| 1000      | xxx | xxxx| xxxx | 0,0001% |
-| 1500     | xxx | xxxx| xxxx | 0,0001% |
-| 1800     | xxx | xxxx| xxxx | 0,0001% |
-| 2200      | xxx | xxxx| xxxx | 0,0001% |
-| 3900      | xxx | xxxx| xxxx | 0,0001% |
-| 4700     | xxx | xxxx| xxxx | 0,0001% |
+Resistencia(Ω)|Potencia (W) con resultados Analíticos | Potencia (W) con resultados Experimentales|%Error|
+|--------- ------------- | ------------- | ------------- |
+| 220      |  0,02455 | 0,02459 | 0,067%|
+| 470      | 0,03792| 0,03789 | 0,0001% |
+| 680     | 0,04328| 0,04333 | 0,0001% |
+| 820      | 0,04521| 0,04524 | 0,0001% |
+| 1000      | 0,04648| 0,04651 | 0,0001% |
+| 1500     | 0,04629| 0,04631 | 0,0001% |
+| 1800     | 0,045| 0,045 | 0% |
+| 2200      | 0,04282| 0,03981 | 0,0001% |
+| 3900      | 0,03373| 0,03381 | 0,0001% |
+| 4700     | 0,03037| 0,03022 | 0,0001% |
 
 TABLA III. Cálculo de errores en la potencia
 
