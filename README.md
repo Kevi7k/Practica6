@@ -52,7 +52,7 @@ TABLA II. Comprobación del Teorema de Thévenin
 
 ## *DIAGRAMA*
 
-![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Circuito_Original.png)
+![alt text]()
 
 Figura 3. Circuito propuesto simulado en TinkerCAD.
 
@@ -97,21 +97,6 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 TABLA III. Cálculo de errores en mediciones de voltaje
 
-|Corriente (Ix)| Resultados Analíticos |Resultados Experimentales|%Error|
-| ------------- | ------------- | ------------- | ------------- |
-| Circuito Original |  3.8926 [mA] | 3.89 [mA] | 0.067 %|
-| Circuito equivalente de Thévenin |15.3212 [mA] | 15.3 [mA] | 0,0014 % |
-
-TABLA IV. Cálculo de errores en mediciones de corriente
-
-|Resistencia (Ω)| Resultados Analíticos |Resultados Experimentales|%Error|
-| ------------- | ------------- | ------------- | ------------- |
-| Circuito Thévenin |  298.8552[Ω] | 299 [Ω] | 0.048 %|
-
-
-TABLA V. Cálculo de errores en las resistencias.
-
-
 
 ## *CONCLUSIONES*
 
@@ -130,7 +115,7 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 
 ## *ANEXOS*
 
-![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Voltaje_Corriente_Original.png)
+![alt text]()
 
 Figura 5. Medición de voltaje y corriente en el circuito original.
 
