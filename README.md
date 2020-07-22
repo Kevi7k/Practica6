@@ -122,7 +122,7 @@ Resistencia(Ω)|Potencia (W)| Resultados Analíticos |Resultados Experimentales|
 | 3900      | xxx | xxxx| xxxx | 0,0001% |
 | 4700     | xxx | xxxx| xxxx | 0,0001% |
 
-TABLA III. Cálculo de errores en mediciones de voltaje
+TABLA III. Cálculo de errores en la potencia
 
 
 ## *CONCLUSIONES*
