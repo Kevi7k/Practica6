@@ -159,7 +159,7 @@ I(salida)=I(entrada)
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
 
 Resistencia(Ω)|Potencia (W) con resultados Analíticos | Potencia (W) con resultados Experimentales|%Error|
-|--------- ------------- | ------------- | ------------- |
+|---------------- | ------------- | ------------- |-----------|
 | 220      |  0,02455 | 0,02459 | 0,067%|
 | 470      | 0,03792| 0,03789 | 0,0001% |
 | 680     | 0,04328| 0,04333 | 0,0001% |
