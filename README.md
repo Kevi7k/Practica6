@@ -4,10 +4,11 @@
 
 ## *OBJETIVOS*
 # Objetivo general
-- Diseñar un circuito electrico mediante la simulación en laboratorios virtuales para comprobar la validez del teorema de la máxima transferencia de potencia.
+- Diseñar un circuito eléctrico mediante la simulación en laboratorios virtuales para comprobar la validez del teorema de la máxima transferencia de potencia.
 
 # Objetivos específico
 - Comprender la metodología del teorema de la máxima transferencia de potencia para reafirmar los conocimientos previamente adquiridos.
+- Encontrar la resistencia aproximada en la cual se obtiene la mayor transferencia de potencia.
 - Analizar los resultados teóricos con los prácticos mediante la comparación de los mismos para la obtención de porcentajes de error respectivos.
 
 
@@ -148,9 +149,9 @@ Para obtener la máxima transferencia de potencia , las resistencias Rth y Rl co
 
 ## *DIAGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/Circuito%20implementado.png)
 
-Figura 6. Circuito propuesto simulado en TinkerCAD.
+Figura 6. Circuito propuesto simulado en TinkerCAD junto a sus componentes de medición.
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
@@ -195,7 +196,7 @@ TABLA III. Cálculo de errores en la potencia
 
 ## *CRONOGRAMA*
 
-
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Cronograma/Cronograma.png)
 
 ## *BIBLIOGRAFÍA*
 
