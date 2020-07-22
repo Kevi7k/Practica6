@@ -176,7 +176,13 @@ TABLA III. Cálculo de errores en la potencia
 
 ## *CONCLUSIONES*
 
+- Al realizar los cálculos correspondientes de potencia en forma experimental y analítica se ha determinado la máxima transferencia de potencia se obtiene en un rango donde la resitencia de carga llega a tener un valor desde 1000Ω hasta 1500Ω.
 
+- Luego de observar el rango donde se obtiiene la mayor potencia, se puede afirmar que el teorema de máxima transferencia de potencia es válido, ya que teóricamente se obtiene la máxima transferencia de potencia cuando la resistencia de carga tiene el mismo valor que la resistencia de Thevenning y en nuestro caso el rango se aproxima a la resistenica de 1200Ω.
+
+- Durante la práctica se han obtenido errores, debido a la variación de datos, tanto experimentales como teóricos. Como sabemos las potencias obtenidas son medidas indirectas y esta es la razón por la cual no se puede llegar al valor exacto.
+
+- Los errores obtenidos no superan el 1%, lo que nos garantiza la efectividad de la práctica y la precisión con la cual se realizó el cálculo de cada dato. Para nuestro estudio estos errores se los puede pasar por alto ya que no se ve afectado el comportamiento de parámetros eléctricos dentro del circuito.
 
 ## *RECOMENDACIONES*
 1.- Para realizar una practica exitosa se debe tener conocimiento previo adquirido, para poder relacionar la teoría aprendida con la simulación.
@@ -187,6 +193,7 @@ TABLA III. Cálculo de errores en la potencia
 
 
 ## *CRONOGRAMA*
+
 
 
 ## *BIBLIOGRAFÍA*
