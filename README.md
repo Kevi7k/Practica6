@@ -115,11 +115,18 @@ Para obtener la máxima transferencia de potencia , las resistencias Rth y Rl co
 
 ![alt text]()
 
-Figura 3. Circuito propuesto simulado en TinkerCAD.
+Figura 6. Circuito propuesto simulado en TinkerCAD.
 
 ## *Ecuaciones*
 
-Las ecuaciones que vamos a utilizar para este tema, prácticamente son las mismas de temas anteriores.Lo único que cambia es la metodología al momento de resolver, como los pasos a seguir que tenemos en el marco teórico pero tomando en cuenta lo siguiente:
+Las ecuaciones que vamos a utilizar para este tema, prácticamente son las mismas de temas anteriores.
+
+Lo que hay que tomar en cuenta que para comprobar este teorema o realizar ejercicios de este mismo, lo que debemos saber son , las metodologías del teorema de thevenin y el de Norton , por lo que de ahi, las ecuaciones que estariamos utilizando, practicamente serían las mismas pero añadiendole estas formulas que son las de la potencia o potencia máxima.
+
+
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/Formula.png)
+
+Fig 7.  Formula de la potencia máxima.
 
 La resistencia de Thévenin es la resultante de todas las resistencia en el circuito pero apagado las fuentes y se denomina como (Rth)
 
