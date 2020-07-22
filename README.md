@@ -97,25 +97,6 @@ Fig 4.  Formula de la potencia máxima.
 
 TABLA II. Comprobación de la máxima transferencia de potencia.
 
-## *PREGUNTAS*
-
-1.- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
-
-El teorema de la máxima transferencia de potencia  estuvo a poco de cumplirse ya que hay dos resistencias muy cercanas a la resistencia de thevenin , pero no iguales por lo que en esta práctica no se pudo comprobar el teorema de la máxima transferencia de potencia. 
-
-2.- ¿Cuál fue la potencia máxima en RL?
-
-La máxima potencia obtenida en RL  fue de 0,04651 (W) correspondiente a una resistencia de 1000(Ω) que es la más cercana a la resistencia de thevenin de 1200.
-
-3.- ¿Para qué valor de RL se obtiene la MTP?
-
-Para obtener la máxima transferencia de potencia , las resistencias Rth y Rl correspondientes deben tener el mismo valor , por lo que esta para ser igual debe tener el valor de 1200.
-
-## *DIAGRAMA*
-
-![alt text]()
-
-Figura 6. Circuito propuesto simulado en TinkerCAD.
 
 ## *Ecuaciones*
 
@@ -150,6 +131,26 @@ Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir l
 
 I(salida)=I(entrada)
 
+## *PREGUNTAS*
+
+1.- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
+
+El teorema de la máxima transferencia de potencia  estuvo a poco de cumplirse ya que hay dos resistencias muy cercanas a la resistencia de thevenin , pero no iguales por lo que en esta práctica no se pudo comprobar el teorema de la máxima transferencia de potencia. 
+
+2.- ¿Cuál fue la potencia máxima en RL?
+
+La máxima potencia obtenida en RL  fue de 0,04651 (W) correspondiente a una resistencia de 1000(Ω) que es la más cercana a la resistencia de thevenin de 1200.
+
+3.- ¿Para qué valor de RL se obtiene la MTP?
+
+Para obtener la máxima transferencia de potencia , las resistencias Rth y Rl correspondientes deben tener el mismo valor , por lo que esta para ser igual debe tener el valor de 1200.
+
+
+## *DIAGRAMA*
+
+![alt text]()
+
+Figura 6. Circuito propuesto simulado en TinkerCAD.
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
