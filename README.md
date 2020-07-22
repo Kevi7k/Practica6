@@ -155,6 +155,8 @@ Figura 6. Circuito propuesto simulado en TinkerCAD junto a sus componentes de me
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
+Como podemos evidenciar, tenemos un circuito el cual simula un circuito resuelto sacando una fuente de voltaje thevenin y una resistencia thevenin, esto para poder aplicar nuestra formula de máxima potencia, que está en función de nuestra fuente de voltaje thevenin, nuestra resistencia thevenin y nuestra resistencia en la cual vamos a sacar la potencia.
+Tenemos nuestra fuente de voltaje de 15 volteos, y nuestra primera resistencia de 1200 ohmios. Nuestra tercera resistencia variara de acuerdo a los datos de la resistencia que queramos calcular. Nuestros valores para nuestra segunda resistencia tendremos: 220, 470, 680, 820, 1000, 1500, 1800, 2200, 3900 y 4700 ohmios. Dichas resistencias como ya lo mencionamos las añadiremos una por una, para obtener nuestra potencia en dicha resistencia. Como ya lo estudiamos en nuestra teoría, dicha potencia calculada o medida, con la ayuda de un vatímetro, estará dada en Watts.
 
 
 ## *ANÁLISIS DE RESULTADOS*
