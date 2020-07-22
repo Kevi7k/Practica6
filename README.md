@@ -29,6 +29,8 @@
 |  1  | Resistor  de  3.9k    |
 |  1  | Resistor  de  4.7k   |
 |  1  | Protoboar      |
+
+Tabla 1. Materiales
 ## *MARCO TEÓRICO*
 
 Para poder lograr transferir la máxima potencia a una carga  en un circuito este consiste en hacer que dicha carga absorba al máximo a la fuente de energía del circuito, es decir que consuma lo que mas pueda de potencia que es generada por la fuente. Como se sabe, un circuito, respecto a dos puntos (a,b) este se puede reducir mediente el teorema de thevenin ya antes visto, como ya sabemos este es reducido a una fuente (Vth) en serie con una resistencia (Rth), para poder determinar de como se obtiene la máxima transferencia de potencia dirigida hacia una carga, lo que debemos de hacer es reducir la red que existe a los terminales de dicha carga mediante el teorema ya mencionado, valga la redundancia , de modo que el circuito al final se reduce solamente en una malla entonces ahí encontramos la potencia transferida.
@@ -69,8 +71,10 @@ Fig 4.  Formula de la potencia máxima.
 1.-Arme el circuito que se muestra en la figura.
  
  ![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/diagrama%204.png)
+ 
+ Fig 5.   Circuito para simular
 
-2.- Mida el voltaje y la corriente para cada valor de RL que se indica en la fig 1, anote los resultados medidos.
+2.- Mida el voltaje y la corriente para cada valor de RL que se indica en la fig 5, anote los resultados medidos.
 
 3.- Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 2.
 
