@@ -84,16 +84,16 @@ Fig 4.  Formula de la potencia máxima.
 
 |  RL(Ω)   |  Corriente medida (mA) | Voltaje medido (V)   | Potencia calculada Experimentalmente (W)|Potencia calculada teoricamente (W)  |
 |:--------:|:---------:|:--------:|:---------:|:--------:|
-|  220      | xxxx |  xxxx  | xxxx  |  xxxx   |
-|  470      | xxxx  |  xxxx    |  xxxx    |   xxxx    |
-|  680      |  xxx  |  xxxx    |  xxxx   |   xxxx    |
-|  820      | xxxx  | xxxx  | xxxx |  xxxx |
-|  1000      |   xx  |  xxxx   |   xxxx    |  xxxx    |
-|  1500      |   xxx  | xx  |  xxxx   |   xxxx    |
-|  1800      | xxxx |  xxxx | xxx|  xxxx |
-|  2200      |   xxx  |   xxxx  |   xxxx |   xxxx    |
-|  3900      |   xx  |   xxxx   |  xxxx |   xxxx    |
-|  4700      | xxxx  |  xxxx   | xxxx  |  xxxx   |
+|  220      | 10,6 |  2,32  | 0,02459  |  0,02455   |
+|  470      | 8,98  |  4,22    |  0,03789    |   0,03792    |
+|  680      |  7,98  |  5,43    |  0,04333   |   0,04328    |
+|  820      | 7,42 | 6,09  | 0,04524 |  0,04521 |
+|  1000      |   6,82  |  6,82   |   0,04651    |  0,04648    |
+|  1500      |   5,56  | 8,33  |  0,04631   |   0,04629    |
+|  1800      | 5 |  9 | 0,045|  0,045 |
+|  2200      |   4,1  |   9,71  |   0,03981 |   0,04282    |
+|  3900      |   2,94  |  11,5   |  0,03381 |   0,03373    |
+|  4700      | 2,54 |  11,9   | 0,03022  |  0,03037   |
 
 TABLA II. Comprobación de la máxima transferencia de potencia.
 
