@@ -196,7 +196,7 @@ TABLA III. Cálculo de errores en la potencia
 
 ## *CRONOGRAMA*
 
-![alt text](https://github.com/Kevi7k/Practica6/blob/master/Cronograma/Cronograma.png)
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Cronograma/Cronograma1.jpg)
 
 ## *BIBLIOGRAFÍA*
 
