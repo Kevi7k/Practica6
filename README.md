@@ -2,6 +2,11 @@
 # *TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
+Como ya lo sabemos cómo estudio previo a la realización de nuestra práctica, la potencia suministrada en un elemento de nuestro circuito, es la energía eléctrica transferida o absorbida en un momento determinado. Para lo cual nosotros nos preguntaremos, como calcular y como medir dicha energía eléctrica. Nuestra respuesta a dicha pregunta la tendremos en este informe. 
+
+Como respuesta, tenemos primero planteado nuestro teorema de máxima transferencia de potencia, el cual nos ayudara a calcular los valores que ya lo hemos establecido. Luego por medio de nuestra medición de los valores necesarios para la aplicación de nuestra formula de potencia máxima, o en su mejor caso, utilizando un vatímetro el cual nos permita calcular la potencia en nuestra resistencia. Y al final, nosotros tendremos que realizar nuestros cálculos teóricos, comparándolos y revisando si estamos realizando de manera correcta nuestro procedimiento.
+
+
 ## *OBJETIVOS*
 # Objetivo general
 - Diseñar un circuito eléctrico mediante la simulación en laboratorios virtuales para comprobar la validez del teorema de la máxima transferencia de potencia.
