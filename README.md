@@ -195,8 +195,12 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 
 ## *ANEXOS*
 
-![alt text]()
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/mediciones1.jpg)
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/mediciones2.jpg)
 
-Figura 5. Medición de voltaje y corriente en el circuito original.
+Figura 5. Medición de voltaje y corriente en la resistencia de carga del circuito.
 
 
+![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/mediciones2.jpg)
+
+Figura 5. Cálculos experimentales y teóricos.
