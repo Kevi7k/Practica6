@@ -16,16 +16,19 @@
 
 | Cantidad | Material de Equipo |
 | ------------- | ------------- |
-| 2  | Fuente de voltaje de C.D. |
-| 2  | Multímetros digitales |
-|  1 | Resistor de 560  |
-|  1 | Resistor de 4.7k  |
-|  1 | Resistor de 330  |
-|  1 | Resistor de 100 |
+| 1  | Fuente de voltaje de C.D. |
+| 1  | Multímetro digital |
+|  1 | Resistor de 220  |
+|  1 | Resistor de 470 |
+|  1 | Resistor de 680  |
+|  1 | Resistor de 820 |
 |  1 | Resistor de 1k  |
-|  1 | Potenciómetro de precisión de 1k|
-|  1 | Protoboard      |
-
+|  1 | Resistor  de 1.5k    |
+|  1 | Resistor  de 1.8k      |
+|   1 | Resistor  de 2.2k     |
+|  1  | Resistor  de  3.9k    |
+|  1  | Resistor  de  4.7k   |
+|  1  | Protoboar      |
 ## *MARCO TEÓRICO*
 
 
@@ -34,19 +37,19 @@
 
 ## *TABULACIÓN DE DATOS*
 
-|Tipo de dato |VTH (V) |RTH (Ω)| 
-| ------------- | ------------- | ------------- | 
-| Calculado     | 5.056     |  298.8558    | 
-| Medido     | 5.06         |      299    |    
 
-
-TABLA I. Valores del Circuito Equivalente de Thévenin
-
-|                      |  Circuito | Original |  Circuito | Thévenin |
-|:--------------------:|:---------:|:--------:|:---------:|:--------:|
-| Parámetro  eléctrico | Calculado |  Medido  | Calculado |  Medido  |
-|      Voltaje (V)     |   3.8926  |   3.89   |   5.056   |   5.06   |
-|    Corriente (mA)    |   3.8926  |   3.89   |  15.3212  |   15.3   |
+|  RL(Ω)   |  Corriente medida (mA) | Voltaje medido (V)   | Potencia calculada Experimentalmente (W)|Potencia calculada teoricamente (W)  |
+|:--------:|:---------:|:--------:|:---------:|:--------:|
+|  220      | xxxx |  xxxx  | xxxx  |  xxxx   |
+|  470      | xxxx  |  xxxx    |  xxxx    |   xxxx    |
+|  680      |  xxx  |  xxxx    |  xxxx   |   xxxx    |
+|  820      | xxxx  | xxxx  | xxxx |  xxxx |
+|  1000      |   xx  |  xxxx   |   xxxx    |  xxxx    |
+|  1500      |   xxx  | xx  |  xxxx   |   xxxx    |
+|  1800      | xxxx |  xxxx | xxx|  xxxx |
+|  2200      |   xxx  |   xxxx  |   xxxx |   xxxx    |
+|  3900      |   xx  |   xxxx   |  xxxx |   xxxx    |
+|  4700      | xxxx  |  xxxx   | xxxx  |  xxxx   |
 
 TABLA II. Comprobación del Teorema de Thévenin
 
