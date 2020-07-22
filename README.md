@@ -1,13 +1,13 @@
 # Práctica 6
-# *TEOREMA DE THÉVENIN*
+# *TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
 ## *OBJETIVOS:*
 # Objetivo general
-- Diseñar un circuito electrico mediante la simulación en laboratorios virtuales para comprobar la validez del teorema de Thévenin
+- Diseñar un circuito electrico mediante la simulación en laboratorios virtuales para comprobar la validez del teorema de la máxima transferencia de potencia.
 
 # Objetivos específico
-- Comprender la metodología del teorema de Thévenin para reafirmar los conocimientos previamente adquiridos.
+- Comprender la metodología del teorema de la máxima transferencia de potencia para reafirmar los conocimientos previamente adquiridos.
 - Analizar los resultados teóricos con los prácticos mediante la comparación de los mismos para la obtención de porcentajes de error respectivos.
 
 
@@ -34,6 +34,13 @@
 
 ## *PROCEDIMIENTO*
 
+1.-Arme el circuito que se muestra en la figura.
+ Fig 1
+
+2.- Mida el voltaje y la corriente para cada valor de RL que se indica en la fig 1, anote los resultados medidos.
+
+3.- Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 2.
+
 
 ## *TABULACIÓN DE DATOS*
 
@@ -51,7 +58,16 @@
 |  3900      |   xx  |   xxxx   |  xxxx |   xxxx    |
 |  4700      | xxxx  |  xxxx   | xxxx  |  xxxx   |
 
-TABLA II. Comprobación del Teorema de Thévenin
+TABLA II. Comprobación de la máxima transferencia de potencia.
+
+## *PREGUNTAS*
+
+1.- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
+
+2.- ¿Cuál fue la potencia máxima en RL?
+
+3.- ¿Para qué valor de RL se obtiene la MTP?
+
 
 ## *DIAGRAMA*
 
@@ -93,10 +109,18 @@ I(salida)=I(entrada)
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
 
-|Voltaje (VTh)| Resultados Analíticos |Resultados Experimentales|%Error|
-| ------------- | ------------- | ------------- | ------------- |
-| Circuito Original | 3.8926 [V] | 3.89 [V] | 0,067%|
-| Circuito equivalente de Thévenin | 5.056 [V] | 5.06 [V] | 0,0001% |
+Resistencia(Ω)|Potencia (W)| Resultados Analíticos |Resultados Experimentales|%Error|
+|-------------| ------------- | ------------- | ------------- | ------------- |
+| 220      |  xxx  | xxxx | xxxx | 0,067%|
+| 470      | xxx | xxxx| xxxx | 0,0001% |
+| 680     | xxx | xxxx| xxxx | 0,0001% |
+| 820      | xxx | xxxx| xxxx | 0,0001% |
+| 1000      | xxx | xxxx| xxxx | 0,0001% |
+| 1500     | xxx | xxxx| xxxx | 0,0001% |
+| 1800     | xxx | xxxx| xxxx | 0,0001% |
+| 2200      | xxx | xxxx| xxxx | 0,0001% |
+| 3900      | xxx | xxxx| xxxx | 0,0001% |
+| 4700     | xxx | xxxx| xxxx | 0,0001% |
 
 TABLA III. Cálculo de errores en mediciones de voltaje
 
