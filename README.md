@@ -72,7 +72,7 @@ Fig 4.  Formula de la potencia máxima.
  
  ![alt text](https://github.com/Kevi7k/Practica6/blob/master/Imagenes/diagrama%204.png)
  
- Fig 5.   Circuito para simular
+ Fig 5.   Circuito a ser simulado.
 
 2.- Mida el voltaje y la corriente para cada valor de RL que se indica en la fig 5, anote los resultados medidos.
 
